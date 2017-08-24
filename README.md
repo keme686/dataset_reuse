@@ -9,7 +9,7 @@ Code repository to analyse indications of dataset reuse in different communicati
 `dataset_metadata` contains metadata of datasets extracted from datahub.com, separated to different files: basic info, extras, resources, tags and organization. 
 
 ## Mailing lists
-`mailing_lists` contains two json dumps of mailing lists: e.g., semantic-web@w3.org (`sem-w3.json`) and public-lod@w3.org (`lod-w3.json`).
+`mailing_lists` contains json dumps of mailing lists: e.g., semantic-web@w3.org (`sem-w3.json`) and public-lod@w3.org (`lod-w3.json`).
 
 ## Publications (papers)
 `publication_txt` contains textual (.txt) forms of papers from three well known conferences: ISWC, ESWC and WWW. The publication texts should be placed in a folder named `Conf+Year`: e.g., `ESWC2013` for papers from ESWC 2013 conference).
